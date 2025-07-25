@@ -1,0 +1,49 @@
+4
+Krusty Krab
+bikini bottom
+80211331
+dine in
+cash
+burgers
+200
+krabby patty
+kelp shake
+krabby meal
+kelp rings
+
+chum bucket
+bikini bottom
+80211332
+dine in
+cash
+chum
+200
+chum
+chum shake
+
+
+
+goofy goobers
+bikini outskirts
+80211332
+dine in
+cash
+ice cream
+220
+goofy sundae
+banana shake
+triple goofy goober
+
+
+salty spitoon
+bikini outskirts
+80211334
+dine in
+cash
+alcohol
+230
+mojito
+vodka redbull
+1 million beers
+
+
